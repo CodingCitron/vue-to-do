@@ -1,7 +1,7 @@
 <template>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container-fluid">
-            <router-link class="navbar-brand" to="/">Sang Min</router-link>
+            <router-link class="navbar-brand" to="/">Sangmin</router-link>
             <ul class="navbar-nav me-auto mb-lg-0">
                 <li class="nav-item">
                     <router-link

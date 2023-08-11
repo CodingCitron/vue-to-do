@@ -1,5 +1,4 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import HomePage from '@/views/Home.vue'
 import ToDos from '@/views/ToDo.vue'
 import ToDo from '@/views/ToDoUpdate.vue'
 import ToDoCreate from '@/views/ToDoCreate.vue'
@@ -8,12 +7,8 @@ const router = createRouter({
     history: createWebHistory(),
     routes: [
         {
-            path: '/',
-            name: 'Home',
-            component: HomePage,
-        },
-        {
             path: '/todos',
+            alias: '/',
             name: 'Todos',
             component: ToDos,
         },
@@ -29,7 +24,5 @@ const router = createRouter({
         },
     ],
 })
-
-// 1 /home 2 /todos 3 /todos/create 4 /todos/:id
 
 export default router
