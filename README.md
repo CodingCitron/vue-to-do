@@ -17,17 +17,17 @@
 - 토스트(데이터 추가 or 업데이트 하단 알림)
 
 ### 페이지 및 기능
-- 메인
+- 메인  
 ![스크린샷 2023-08-26 122831](https://github.com/CodingCitron/vue-to-do/assets/78482307/25f82f8d-c25d-4cd5-91f7-ae77b3c353b1)
 
-- 추가
+- 추가  
 ![스크린샷 2023-08-26 122903](https://github.com/CodingCitron/vue-to-do/assets/78482307/fb4152e9-73c4-4833-9679-a483dcf4bdbc)
 
-- 삭제
+- 삭제  
 ![스크린샷 2023-08-26 123923](https://github.com/CodingCitron/vue-to-do/assets/78482307/da443b46-b378-43cc-b65e-6a3cf2829b45)
 
-- 읽기 및 수정
+- 읽기 및 수정  
 ![스크린샷 2023-08-26 123837](https://github.com/CodingCitron/vue-to-do/assets/78482307/a1c20e5f-fe18-43a8-b61d-3bb4aca292a7)
 
-- to-do 목록이 없을 때
+- to-do 목록이 없을 때  
 ![스크린샷 2023-08-26 121945](https://github.com/CodingCitron/vue-to-do/assets/78482307/1991721a-a1a5-4a87-b1ec-ab5c5fac7e02)
