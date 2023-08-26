@@ -7,7 +7,7 @@
                 type="button"
                 @click="moveToCreatePage"
             >
-                Create
+                생성
             </button>
         </div>
         <input
@@ -52,7 +52,7 @@ export default {
             searchText = ref(''),
             error = ref(''),
             numberOfTodos = ref(0),
-            limit = 5,
+            limit = 3,
             currentPage = ref(1),
             totalPage = computed(() => {
                 return Math.ceil(numberOfTodos.value / limit)

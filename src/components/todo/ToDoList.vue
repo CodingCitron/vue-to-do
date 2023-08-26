@@ -28,7 +28,7 @@
                     class="btn btn-danger"
                     @click.stop="openModal(item.id)"
                 >
-                    Delete
+                    삭제
                 </button>
             </template>
         </List>

@@ -4,7 +4,7 @@
         <div class="row">
             <div :class="editing ? 'col-6' : ''">
                 <Input
-                    label="subject"
+                    label="제목"
                     v-model:value="toDo.subject"
                     :error="subjectError"
                     :focus="editing ? false : true"
@@ -12,7 +12,7 @@
             </div>
             <div v-if="editing" class="col-6">
                 <div class="form-group">
-                    <label>Status</label>
+                    <label>상태</label>
                     <div>
                         <button
                             type="button"
@@ -22,14 +22,14 @@
                             "
                             @click="toggleToDoStatus"
                         >
-                            {{ toDo.completed ? 'Completed' : 'Incompleted' }}
+                            {{ toDo.completed ? '완료' : '미완' }}
                         </button>
                     </div>
                 </div>
             </div>
             <div class="col-12 mt-2">
                 <div class="form-group">
-                    <label for="textarea">Body</label>
+                    <label for="textarea">내용</label>
                     <textarea
                         id="textarea"
                         v-model="toDo.body"

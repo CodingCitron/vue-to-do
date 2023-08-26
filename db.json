@@ -1,126 +1,40 @@
 {
   "todos": [
     {
-      "subject": "asd",
+      "subject": "점심 먹기",
       "completed": true,
+      "body": "라면을 먹는다.",
+      "id": 1
+    },
+    {
+      "subject": "저녁 먹기",
+      "completed": false,
+      "body": "무언가 시켜 먹는다.",
+      "id": 2
+    },
+    {
+      "subject": "알고리즘 공부",
+      "completed": true,
+      "body": "알고리즘 공부",
       "id": 3
     },
     {
-      "subject": "asdasd",
+      "subject": "이력서 수정",
+      "completed": false,
+      "body": "이력서 수정",
+      "id": 4
+    },
+    {
+      "subject": "포트폴리오 업데이트",
+      "completed": false,
+      "body": "포트폴리오 업데이트",
+      "id": 5
+    },
+    {
+      "subject": "운동하기",
       "completed": true,
-      "id": 29
-    },
-    {
-      "subject": "dd",
-      "completed": true,
-      "id": 30
-    },
-    {
-      "subject": "asd",
-      "completed": false,
-      "id": 31
-    },
-    {
-      "subject": "zz",
-      "completed": false,
-      "id": 32
-    },
-    {
-      "subject": "중국집",
-      "completed": false,
-      "id": 33
-    },
-    {
-      "subject": "일식집",
-      "completed": true,
-      "id": 34
-    },
-    {
-      "subject": "ㅁㄴㅇㅁㄴㅇㅁㄴ",
-      "completed": false,
-      "id": 45
-    },
-    {
-      "subject": "ㅁㄴㅇㅁㄴㅇ",
-      "completed": false,
-      "id": 46
-    },
-    {
-      "subject": "ㅁㄴㅇㅁㄴㅇㄴㅁ",
-      "completed": false,
-      "id": 47
-    },
-    {
-      "subject": "ㄴㅁㄴㅁazsx",
-      "completed": "",
-      "body": "z",
-      "id": 58
-    },
-    {
-      "subject": "asdasd",
-      "completed": false,
-      "body": "ㅋㅌ",
-      "id": 59
-    },
-    {
-      "subject": "zxcz",
-      "completed": true,
-      "body": "zxccxㅋㅌㅊㅋㅌㅊㅍㅋㅌㅊㅋㅊㅌㅊㅍㅋㅌㅊㅍㅠㅍㅌㅌㅋㅌㅊㅋㅌㅊㅊㅍㅊㅍㅊㅊㅊㅍㅍㅍㅍㅍㅍㅍ",
-      "id": 60
-    },
-    {
-      "subject": "zxczx",
-      "completed": false,
-      "body": "czxcㅋㅌㅌㄹㅋㅌㅌㅋㅌ",
-      "id": 61
-    },
-    {
-      "subject": "ㅊㅊ",
-      "completed": false,
-      "body": "ㅊㅊㅌㅊ",
-      "id": 62
-    },
-    {
-      "subject": "퓨",
-      "completed": false,
-      "body": "ㅠ퓨",
-      "id": 63
-    },
-    {
-      "subject": "퓨",
-      "completed": false,
-      "body": "퓨",
-      "id": 64
-    },
-    {
-      "subject": "ㅍㅍ",
-      "completed": false,
-      "body": "ㅋㅌ",
-      "id": 65
-    },
-    {
-      "subject": "ㅊㅊ",
-      "completed": false,
-      "body": "ㅋㅋㅍ",
-      "id": 66
-    },
-    {
-      "subject": "ㅋㅋ",
-      "completed": false,
-      "body": "ㅋㅋ",
-      "id": 67
-    },
-    {
-      "subject": "ㅊㅊ",
-      "completed": false,
-      "body": "ㅊㅊ",
-      "id": 71
-    },
-    {
-      "subject": "ㅋㅌㅊㅋㅊ",
-      "completed": false,
-      "body": "ㅋㅌㅊㅋㅊ",
-      "id": 72
+      "body": "",
+      "id": 6
     }
   ]
 }

@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h2>Update To-Do</h2>
+        <h2>To-Do</h2>
         <ToDoForm :editing="true" />
     </div>
 </template>

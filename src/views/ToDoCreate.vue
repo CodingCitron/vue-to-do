@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h2>Create To-Do</h2>
+        <h2>To-Do 작성</h2>
         <ToDoForm />
     </div>
 </template>
